@@ -9,7 +9,8 @@ A simple web-based application of MS Paint that is built on HTML, CSS and JavaSc
 <li>User can save drawings to local storage</li>
 <li>User can download canvas as an image</li>
 
-
+### Preview
+https://user-images.githubusercontent.com/26957756/122661431-be74c780-d1a7-11eb-9445-1dfa1f5c2d12.mp4
 
 
 
