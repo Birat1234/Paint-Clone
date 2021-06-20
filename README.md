@@ -3,11 +3,13 @@ A simple web-based application of MS Paint that is built on HTML, CSS and JavaSc
 
 ### Features
 
-User can draw with brush
-User can change color opacity
-User can change background color
-User can erase
-User can reset canvas
-User can save drawings to local storage
-User can download canvas as an image
-<li>User can draw with brush</li>
+<li>User can change color opacity</li>
+<li>User can erase</li>
+<li>User can reset canvas</li>
+<li>User can save drawings to local storage</li>
+<li>User can download canvas as an image</li>
+<li><li>User can draw with brush</li></li>
+
+
+
+
